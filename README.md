@@ -18,4 +18,4 @@ This project showcases a creative representation of various coffee options. The 
 
 ## Demo
 
-You can see a live demo of the project [here](#http://ec2-13-127-123-68.ap-south-1.compute.amazonaws.com/).
+You can see a live demo of the project [here](http://ec2-13-127-123-68.ap-south-1.compute.amazonaws.com/).
