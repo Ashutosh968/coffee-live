@@ -6,11 +6,11 @@ This project is a fun interactive coffee cup visualization that allows users to 
 
 - [Description](#description)
 - [Demo](#demo)
-- [Installation](#installation)
+<!-- - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](#contact) -->
 
 ## Description
 
